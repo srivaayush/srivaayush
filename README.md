@@ -72,10 +72,10 @@ I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan M
 
 1. [LinkedIn](https://www.linkedin.com/in/srivaayush/)
 2. [CodeChef](https://www.codechef.com/users/coder_sriva)
-3. [Instagram](https://www.instagram.com/srivaayush/)
-4. [Codeforces](http://codeforces.com/profile/SrivaAyush)
+3. [Codeforces](http://codeforces.com/profile/SrivaAyush)
+4. [Instagram](https://www.instagram.com/srivaayush/)
 5. [GFG](https://auth.geeksforgeeks.org/user/srivaayush)
-6. [FaceBook](https://www.facebook.com/srivaayush/)
+6. [Facebook](https://www.facebook.com/srivaayush/)
 <!-- 6. [Twitter](https://twitter.com/srivaayush00) -->
 <!-- 2. [Portfolio](https://sayannath.biz/) -->
 <!-- 3. [YouTube](https://www.youtube.com/channel/UCOk-VYzGNeCHrMOzGmoWg2A) -->
