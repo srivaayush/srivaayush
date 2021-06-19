@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am an aspiring Flutter Developer at [Codebugged AI](https://codebugged.com/), presently working as Exective Member in the [Codechef MMMUT Chapter Team](https://chefmmmutchapter.tech/) and [University Innovation Cell,MMMUT](http://uicmmmut.in/). My interests aside from Application Development are Competetive Coding and working on TFLite Models.
+I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am an aspiring Flutter Developer at [Codebugged AI](https://codebugged.com/), presently working as Exective Member in the [Codechef MMMUT Chapter Team](https://chefmmmutchapter.tech/) and [University Innovation Cell,MMMUT](http://uicmmmut.in/). My interests aside from Application Development are Competitive Coding and working on TFLite Models.
 
 <table>
   <tr>
