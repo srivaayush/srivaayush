@@ -17,8 +17,8 @@ I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan M
 
 ## Timeline
 
-- App Developer, [Codebugged AI](https://codebugged.com/) (August, 2020 - Present)
-- Executive Member, [Codechef MMMUT Chapter](https://chefmmmutchapter.tech/) (May 2020 - Present)
+- App Developer, [Codebugged AI](https://codebugged.com/) (May, 2020 - Present)
+- Executive Member, [Codechef MMMUT Chapter](https://chefmmmutchapter.tech/) (December 2020 - Present)
 - Executive Member, [University Innovation Cell,MMMUT](http://uicmmmut.in/) (March 2020 - Present)
 
 ## Languages and Tools: 
