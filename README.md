@@ -17,7 +17,9 @@ I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan M
 
 ## Timeline
 
-- App Developer, [Codebugged AI](https://codebugged.com/) (May, 2020 - Present)
+- Flutter Content Developer, [CodingNinjas](https://www.codingninjas.com/) (January, 2022 - Present)
+- App Developer, [DigitalKumbh](https://digitalkumbh.in/) (May, 2021 - Present)
+- Software Developer, [Codebugged AI](https://codebugged.com/) (May, 2020 - December,2021)
 - Executive Member, [Codechef MMMUT Chapter](https://chefmmmutchapter.tech/) (December 2020 - Present)
 - Executive Member, [University Innovation Cell,MMMUT](http://uicmmmut.in/) (March 2020 - Present)
 
@@ -28,9 +30,9 @@ I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan M
 
 ### Programming Languages
 >Java, C++, Dart and Python
-
+<!-- 
 ### Machine Learning Framwork
->Tensorflow (Currenly Learning: Just started)
+>Tensorflow (Currenly Learning: Just started) -->
 <!-- 
 ### Backend Development
 >NodeJS(Currenly Learning: Just started)
@@ -75,7 +77,7 @@ I am Ayush Srivastava. I am a second-year undergraduate student at Madan Mohan M
 3. [Codeforces](http://codeforces.com/profile/SrivaAyush)
 4. [Instagram](https://www.instagram.com/srivaayush/)
 5. [GFG](https://auth.geeksforgeeks.org/user/srivaayush)
-6. [Facebook](https://www.facebook.com/srivaayush/)
+<!-- 6. [Facebook](https://www.facebook.com/srivaayush/) -->
 <!-- 6. [Twitter](https://twitter.com/srivaayush00) -->
 <!-- 2. [Portfolio](https://sayannath.biz/) -->
 <!-- 3. [YouTube](https://www.youtube.com/channel/UCOk-VYzGNeCHrMOzGmoWg2A) -->
