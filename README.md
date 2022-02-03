@@ -67,7 +67,7 @@ I am Ayush Srivastava. I am a third-year undergraduate student at Madan Mohan Ma
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivaayush&layout=compact&theme=light"/>
 
 
-<br>
+<!-- <br> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srivaayush&style=plastic" alt="devded" /> </p>
 
 ## 👨 Social
