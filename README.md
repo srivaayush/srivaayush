@@ -76,9 +76,9 @@ I am Ayush Srivastava. I am a third-year undergraduate student at Madan Mohan Ma
 2. [LeetCode](https://leetcode.com/srivaayush/)
 3. [CodeChef](https://www.codechef.com/users/coder_sriva)
 4. [Codeforces](http://codeforces.com/profile/SrivaAyush)
-5. [Instagram](https://www.instagram.com/srivaayush/)
-6. [GFG](https://auth.geeksforgeeks.org/user/srivaayush)
-<!-- 6. [Facebook](https://www.facebook.com/srivaayush/) -->
+
+5. [GFG](https://auth.geeksforgeeks.org/user/srivaayush)
+<!-- 6. [Facebook](https://www.facebook.com/srivaayush/) [Instagram](https://www.instagram.com/srivaayush/) -->
 <!-- 6. [Twitter](https://twitter.com/srivaayush00) -->
 <!-- 2. [Portfolio](https://sayannath.biz/) -->
 <!-- 3. [YouTube](https://www.youtube.com/channel/UCOk-VYzGNeCHrMOzGmoWg2A) -->
