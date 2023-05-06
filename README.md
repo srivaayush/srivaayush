@@ -4,7 +4,7 @@
 
 ## About
 
-I am Ayush Srivastava. I am a third-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am an aspiring Flutter Developer at [Codebugged AI](https://codebugged.com/), presently working as Exective Member in the [Codechef MMMUT Chapter Team](https://chefmmmutchapter.tech/) and [University Innovation Cell,MMMUT](http://uicmmmut.in/). My interests aside from Application Development are Competitive Coding and working on TFLite Models.
+I'm Ayush Srivastava, a B.Tech Information Technology student passionate about full-stack development and curriculum creation. I have experience as a Full Stack Developer Intern at Coding Ninjas, where I worked on React Native and developed the CodeStudio Mobile App. As a Curriculum Owner at Scaler, I review and create curriculum for Flutter, and as a Flutter Content Developer at Coding Ninjas, I created a comprehensive Flutter app development course. I also have experience as a Problem Setter and Technical Content Reviewer at Scaler. My technical skills include C++, Java, Dart, HTML, CSS, JavaScript, Flutter, MongoDB, SQL, Git, Linux, Firebase, and React Native.
 
 <table>
   <tr>
